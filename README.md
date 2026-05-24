@@ -3,7 +3,9 @@ A machine learning project that predicts student employability using academic an
 
 
 𝑻𝒐𝒐𝒍𝒔 𝑼𝒔𝒆𝒅:
+
 • Python
+
 • PyCharm
 
 • Excel
